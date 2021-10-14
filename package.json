@@ -1,0 +1,24 @@
+{
+  "name": "email-generator",
+  "version": "1.0.0",
+  "description": "A quick project to compile Handlebars templates and sass into singlefile HTML with inline styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Iamlowlo/email-generator.git"
+  },
+  "keywords": [
+    "handlebars",
+    "scss",
+    "email"
+  ],
+  "author": "Carlos Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamlowlo/email-generator/issues"
+  },
+  "homepage": "https://github.com/Iamlowlo/email-generator#readme"
+}
